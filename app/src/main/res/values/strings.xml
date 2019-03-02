@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RestuarantRatingApp</string>
+
+    <string-array name="food">
+
+        <item>Ghormeh Sabzi</item>
+        <item>Gheymeh</item>
+        <item>Fesenjan</item>
+        <item>Tahchin</item>
+
+    </string-array>
+</resources>
